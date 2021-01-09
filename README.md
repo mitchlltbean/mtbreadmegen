@@ -1,7 +1,7 @@
 
-# Readme Generator
+# Node.js README.md Generator
 
-# Link to video of how to : https://drive.google.com/file/d/1ohX_0MvP2iSOzrJlnoWUWUbauZ-AUYxM/view?usp=sharing
+# Link to video of how to : 
 
 ## Table of Contents
 [Description](#Description)
@@ -19,16 +19,16 @@
 [Questions](#Questions)
 
 # Description
-This Application is designed to create a README.md file with ease
+This project is designed to streamline the proccess of making Readme files. Using node.js and npm and packages including Inquirer, fs, and util.
 
 # Install
-none
+You will need to install node.js. Npm and these three packages; Inquirer, fs, and util.
 
 # Usage
-none
+A step by step video is provided above below title
 
 # Contributions
-ME
+Wc3schools.com Stackoverflow.com
 
 # Test Instructions
 none
