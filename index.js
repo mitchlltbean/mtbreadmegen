@@ -63,19 +63,19 @@ inquirer.prompt([
 
 
 ## Table of Contents
-[Description](#-description)
+[Description](#Description)
 
-[Install](#-install)
+[Install](#Install)
 
-[Usage](#-usage)
+[Usage](#Usage)
 
-[Contributions](#-contributions)
+[Contributions](#Contributions)
 
-[Test Instructions](#-test-instructions)
+[Test Instructions](#Test-Instructions)
 
-[License](#-license)
+[License](#License)
 
-[Questions](#-questions)
+[Questions](#Questions)
 
 # Description
 ${response.description}
