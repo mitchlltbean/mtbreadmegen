@@ -1,7 +1,7 @@
 
 # Readme Generator
 
-# Link to video of how to : 
+# Link to video of how to : https://drive.google.com/file/d/1ohX_0MvP2iSOzrJlnoWUWUbauZ-AUYxM/view?usp=sharing
 
 ## Table of Contents
 [Description](#Description)
@@ -19,7 +19,7 @@
 [Questions](#Questions)
 
 # Description
-This project is a readme generator created
+This Application is designed to create a README.md file with ease
 
 # Install
 none
@@ -28,7 +28,7 @@ none
 none
 
 # Contributions
-me
+ME
 
 # Test Instructions
 none
