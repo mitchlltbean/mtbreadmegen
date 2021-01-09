@@ -61,6 +61,7 @@ inquirer.prompt([
  `
 # ${response.username}
 
+# Link to video of how to : 
 
 ## Table of Contents
 [Description](#Description)
@@ -95,8 +96,9 @@ ${response.instruct}
 # License
 ${response.licenseSelect}
  
-# Questions- Contacts below if you have any issues
-${response.git}
+# Questions 
+## Contacts below if you have any issues
+https://github.com/${response.git}
 
 ${response.email}
 

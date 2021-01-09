@@ -1,6 +1,7 @@
 
-# sdfdsfdfs
+# Readme Generator
 
+# Link to video of how to : 
 
 ## Table of Contents
 [Description](#Description)
@@ -18,27 +19,28 @@
 [Questions](#Questions)
 
 # Description
-sdffdsfdsfds
+This project is a readme generator created
 
 # Install
-sdffsddfsdfs
+none
 
 # Usage
-sdffdsfdsfds
+none
 
 # Contributions
-sdffdsfdssfdfdsfdsdfs
+me
 
 # Test Instructions
-sdffsddsf
+none
 
 # License
 MIT
  
-# Questions- Contacts below if you have any issues
-sdfsdfsd
+# Questions 
+## Contacts below if you have any issues
+https://github.com/mitchlltbean
 
-sdfsdffsfd
+mitchtroybean@gmail.com
 
 
 
