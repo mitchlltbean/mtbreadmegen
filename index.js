@@ -50,10 +50,10 @@ inquirer.prompt([
  const createReadme = (response) =>
  `
   
-    #  ${response.username}
+    # ${response.username}
     ## ${response.description}
-    #   ${response.install}
-    ##   ${response.usage}
+    # ${response.install}
+    ## ${response.usage}
  `;
     
 
