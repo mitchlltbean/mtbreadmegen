@@ -41,20 +41,65 @@ inquirer.prompt([
       },
       {
         type: 'list',
-          message: 'Lincese Selection',
-          name: 'linceseSelect',
-          choices: [`MIT`, `ok`, `ok`]
+          message: 'License Selection',
+          name: 'licenseSelect',
+          choices: [`MIT`, `BSD`, `GPL`]
         },
+        {
+        type: 'input',
+        message: 'Github Username',
+        name: 'git',
+        },
+        {
+            type: 'input',
+            message: 'Email',
+            name: 'email',
+            },
     ])
 
  const createReadme = (response) =>
  `
-  
-    # ${response.username}
-    ## ${response.description}
-    # ${response.install}
-    ## ${response.usage}
- `;
+# ${response.username}
+
+
+## Table of Contents
+[Description](#-description)
+[Install]()
+[Usage]()
+[Contributions]()
+[Test Instructions]()
+[License]()
+[Questions](#-questions)
+
+# Description
+${response.description}
+
+# Install
+${response.install}
+
+# Usage
+${response.usage}
+
+# Contributions
+${response.contra}
+
+# Test Instructions
+${response.instruct}
+
+# License
+${response.licenseSelect}
+ 
+# Questions- Contacts below if you have any issues
+${response.git}
+
+${response.email}
+
+
+
+
+
+
+`;
     
 
 
